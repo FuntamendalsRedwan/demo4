@@ -1,0 +1,17 @@
+---
+title: "Week 4 HW DACSS 601"
+output: html_notebook
+---
+
+
+```{r}
+# link to the cleaned IMR data
+linkIMR="https://github.com/FuntamendalsRedwan/demo3/raw/refs/heads/main/cleanIMR.RDS"
+# link to the cleaned LEAB data
+linkLEAB="https://github.com/FuntamendalsRedwan/demo3/raw/refs/heads/main/cleanLEAB.RDS"
+# link to the cleaned MMR data
+linkMMR="https://github.com/FuntamendalsRedwan/demo3/raw/refs/heads/main/cleanMMR.RDS"
+```
+
+
+
