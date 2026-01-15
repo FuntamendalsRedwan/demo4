@@ -1,0 +1,682 @@
+"countryname","region","indicator","value"
+"afghanistan","South Asia","deaths.1000.live.births",101.3
+"afghanistan","South Asia","years",54.4
+"afghanistan","South Asia","deaths.100000.live.births",521
+"albania","Europe","deaths.1000.live.births",10.3
+"albania","Europe","years",79.9
+"albania","Europe","deaths.100000.live.births",7
+"algeria","Africa","deaths.1000.live.births",18.7
+"algeria","Africa","years",77.9
+"algeria","Africa","deaths.100000.live.births",62
+"american-samoa","Australia and Oceania","deaths.1000.live.births",9.7
+"american-samoa","Australia and Oceania","years",75.8
+"american-samoa","Australia and Oceania","deaths.100000.live.births",NA
+"andorra","Europe","deaths.1000.live.births",3.3
+"andorra","Europe","years",83.8
+"andorra","Europe","deaths.100000.live.births",11
+"angola","Africa","deaths.1000.live.births",55.6
+"angola","Africa","years",62.9
+"angola","Africa","deaths.100000.live.births",183
+"anguilla","Central America and the Caribbean","deaths.1000.live.births",3
+"anguilla","Central America and the Caribbean","years",82.6
+"anguilla","Central America and the Caribbean","deaths.100000.live.births",NA
+"antigua-and-barbuda","Central America and the Caribbean","deaths.1000.live.births",13.6
+"antigua-and-barbuda","Central America and the Caribbean","years",78.3
+"antigua-and-barbuda","Central America and the Caribbean","deaths.100000.live.births",35
+"argentina","South America","deaths.1000.live.births",9
+"argentina","South America","years",78.8
+"argentina","South America","deaths.100000.live.births",33
+"armenia","Central Asia","deaths.1000.live.births",11.6
+"armenia","Central Asia","years",76.7
+"armenia","Central Asia","deaths.100000.live.births",19
+"aruba","Central America and the Caribbean","deaths.1000.live.births",11.5
+"aruba","Central America and the Caribbean","years",78.5
+"aruba","Central America and the Caribbean","deaths.100000.live.births",NA
+"australia","Australia and Oceania","deaths.1000.live.births",2.9
+"australia","Australia and Oceania","years",83.5
+"australia","Australia and Oceania","deaths.100000.live.births",2
+"austria","Europe","deaths.1000.live.births",3.2
+"austria","Europe","years",82.7
+"austria","Europe","deaths.100000.live.births",6
+"azerbaijan","Central Asia","deaths.1000.live.births",10.9
+"azerbaijan","Central Asia","years",75.9
+"azerbaijan","Central Asia","deaths.100000.live.births",18
+"bahamas-the","Central America and the Caribbean","deaths.1000.live.births",9.4
+"bahamas-the","Central America and the Caribbean","years",76.7
+"bahamas-the","Central America and the Caribbean","deaths.100000.live.births",76
+"bahrain","Middle East","deaths.1000.live.births",9.7
+"bahrain","Middle East","years",80.4
+"bahrain","Middle East","deaths.100000.live.births",17
+"bangladesh","South Asia","deaths.1000.live.births",28.8
+"bangladesh","South Asia","years",75.2
+"bangladesh","South Asia","deaths.100000.live.births",115
+"barbados","Central America and the Caribbean","deaths.1000.live.births",9.6
+"barbados","Central America and the Caribbean","years",79
+"barbados","Central America and the Caribbean","deaths.100000.live.births",35
+"belarus","Europe","deaths.1000.live.births",2.1
+"belarus","Europe","years",74.7
+"belarus","Europe","deaths.100000.live.births",1
+"belgium","Europe","deaths.1000.live.births",3.1
+"belgium","Europe","years",82.3
+"belgium","Europe","deaths.100000.live.births",4
+"belize","Central America and the Caribbean","deaths.1000.live.births",11.3
+"belize","Central America and the Caribbean","years",74.3
+"belize","Central America and the Caribbean","deaths.100000.live.births",67
+"benin","Africa","deaths.1000.live.births",52.9
+"benin","Africa","years",63
+"benin","Africa","deaths.100000.live.births",518
+"bermuda","North America","deaths.1000.live.births",2.1
+"bermuda","North America","years",82.5
+"bermuda","North America","deaths.100000.live.births",NA
+"bhutan","South Asia","deaths.1000.live.births",24.3
+"bhutan","South Asia","years",73.7
+"bhutan","South Asia","deaths.100000.live.births",47
+"bolivia","South America","deaths.1000.live.births",22.3
+"bolivia","South America","years",72.5
+"bolivia","South America","deaths.100000.live.births",146
+"bosnia-and-herzegovina","Europe","deaths.1000.live.births",5
+"bosnia-and-herzegovina","Europe","years",78.5
+"bosnia-and-herzegovina","Europe","deaths.100000.live.births",6
+"botswana","Africa","deaths.1000.live.births",23.7
+"botswana","Africa","years",66.4
+"botswana","Africa","deaths.100000.live.births",155
+"brazil","South America","deaths.1000.live.births",12.9
+"brazil","South America","years",76.3
+"brazil","South America","deaths.100000.live.births",67
+"british-virgin-islands","Central America and the Caribbean","deaths.1000.live.births",13.4
+"british-virgin-islands","Central America and the Caribbean","years",80.1
+"british-virgin-islands","Central America and the Caribbean","deaths.100000.live.births",NA
+"brunei","East and Southeast Asia","deaths.1000.live.births",10
+"brunei","East and Southeast Asia","years",78.9
+"brunei","East and Southeast Asia","deaths.100000.live.births",36
+"bulgaria","Europe","deaths.1000.live.births",7.7
+"bulgaria","Europe","years",76.1
+"bulgaria","Europe","deaths.100000.live.births",6
+"burkina-faso","Africa","deaths.1000.live.births",47
+"burkina-faso","Africa","years",64.2
+"burkina-faso","Africa","deaths.100000.live.births",242
+"burma","East and Southeast Asia","deaths.1000.live.births",32.1
+"burma","East and Southeast Asia","years",70.3
+"burma","East and Southeast Asia","deaths.100000.live.births",185
+"burundi","Africa","deaths.1000.live.births",35.7
+"burundi","Africa","years",68.1
+"burundi","Africa","deaths.100000.live.births",392
+"cabo-verde","Africa","deaths.1000.live.births",22.4
+"cabo-verde","Africa","years",74.3
+"cabo-verde","Africa","deaths.100000.live.births",40
+"cambodia","East and Southeast Asia","deaths.1000.live.births",27.9
+"cambodia","East and Southeast Asia","years",71.4
+"cambodia","East and Southeast Asia","deaths.100000.live.births",137
+"cameroon","Africa","deaths.1000.live.births",46.1
+"cameroon","Africa","years",64.2
+"cameroon","Africa","deaths.100000.live.births",258
+"canada","North America","deaths.1000.live.births",4.3
+"canada","North America","years",84.2
+"canada","North America","deaths.100000.live.births",12
+"cayman-islands","Central America and the Caribbean","deaths.1000.live.births",7.3
+"cayman-islands","Central America and the Caribbean","years",82.5
+"cayman-islands","Central America and the Caribbean","deaths.100000.live.births",NA
+"central-african-republic","Africa","deaths.1000.live.births",80.5
+"central-african-republic","Africa","years",56.4
+"central-african-republic","Africa","deaths.100000.live.births",692
+"chad","Africa","deaths.1000.live.births",62.5
+"chad","Africa","years",60
+"chad","Africa","deaths.100000.live.births",748
+"chile","South America","deaths.1000.live.births",6.3
+"chile","South America","years",80.3
+"chile","South America","deaths.100000.live.births",10
+"china","East and Southeast Asia","deaths.1000.live.births",6.2
+"china","East and Southeast Asia","years",78.7
+"china","East and Southeast Asia","deaths.100000.live.births",16
+"colombia","South America","deaths.1000.live.births",11.7
+"colombia","South America","years",74.9
+"colombia","South America","deaths.100000.live.births",59
+"comoros","Africa","deaths.1000.live.births",54.9
+"comoros","Africa","years",67.8
+"comoros","Africa","deaths.100000.live.births",179
+"congo-democratic-republic-of-the","Africa","deaths.1000.live.births",57.4
+"congo-democratic-republic-of-the","Africa","years",62.6
+"congo-democratic-republic-of-the","Africa","deaths.100000.live.births",427
+"congo-republic-of-the","Africa","deaths.1000.live.births",30.6
+"congo-republic-of-the","Africa","years",72.9
+"congo-republic-of-the","Africa","deaths.100000.live.births",241
+"cook-islands","Australia and Oceania","deaths.1000.live.births",15.1
+"cook-islands","Australia and Oceania","years",77.6
+"cook-islands","Australia and Oceania","deaths.100000.live.births",0
+"costa-rica","Central America and the Caribbean","deaths.1000.live.births",6.7
+"costa-rica","Central America and the Caribbean","years",80.3
+"costa-rica","Central America and the Caribbean","deaths.100000.live.births",24
+"cote-divoire","Africa","deaths.1000.live.births",52.5
+"cote-divoire","Africa","years",63.2
+"cote-divoire","Africa","deaths.100000.live.births",359
+"croatia","Europe","deaths.1000.live.births",8.4
+"croatia","Europe","years",77.7
+"croatia","Europe","deaths.100000.live.births",3
+"cuba","Central America and the Caribbean","deaths.1000.live.births",4
+"cuba","Central America and the Caribbean","years",80.1
+"cuba","Central America and the Caribbean","deaths.100000.live.births",35
+"curacao","Central America and the Caribbean","deaths.1000.live.births",7.5
+"curacao","Central America and the Caribbean","years",79.9
+"curacao","Central America and the Caribbean","deaths.100000.live.births",NA
+"cyprus","Europe","deaths.1000.live.births",8.1
+"cyprus","Europe","years",80.2
+"cyprus","Europe","deaths.100000.live.births",14
+"czechia","Europe","deaths.1000.live.births",2.6
+"czechia","Europe","years",78.6
+"czechia","Europe","deaths.100000.live.births",3
+"denmark","Europe","deaths.1000.live.births",3
+"denmark","Europe","years",82.1
+"denmark","Europe","deaths.100000.live.births",4
+"djibouti","Africa","deaths.1000.live.births",45.2
+"djibouti","Africa","years",65.9
+"djibouti","Africa","deaths.100000.live.births",162
+"dominica","Central America and the Caribbean","deaths.1000.live.births",10.7
+"dominica","Central America and the Caribbean","years",78.7
+"dominica","Central America and the Caribbean","deaths.100000.live.births",36
+"dominican-republic","Central America and the Caribbean","deaths.1000.live.births",21.7
+"dominican-republic","Central America and the Caribbean","years",72.6
+"dominican-republic","Central America and the Caribbean","deaths.100000.live.births",124
+"ecuador","South America","deaths.1000.live.births",11.2
+"ecuador","South America","years",74.9
+"ecuador","South America","deaths.100000.live.births",55
+"egypt","Africa","deaths.1000.live.births",16.8
+"egypt","Africa","years",75
+"egypt","Africa","deaths.100000.live.births",17
+"el-salvador","Central America and the Caribbean","deaths.1000.live.births",11.7
+"el-salvador","Central America and the Caribbean","years",75.9
+"el-salvador","Central America and the Caribbean","deaths.100000.live.births",39
+"equatorial-guinea","Africa","deaths.1000.live.births",77.4
+"equatorial-guinea","Africa","years",63.9
+"equatorial-guinea","Africa","deaths.100000.live.births",174
+"eritrea","Africa","deaths.1000.live.births",39.8
+"eritrea","Africa","years",67.5
+"eritrea","Africa","deaths.100000.live.births",291
+"estonia","Europe","deaths.1000.live.births",3.3
+"estonia","Europe","years",78.4
+"estonia","Europe","deaths.100000.live.births",5
+"eswatini","Africa","deaths.1000.live.births",36.7
+"eswatini","Africa","years",60.7
+"eswatini","Africa","deaths.100000.live.births",118
+"ethiopia","Africa","deaths.1000.live.births",32.6
+"ethiopia","Africa","years",67.7
+"ethiopia","Africa","deaths.100000.live.births",195
+"faroe-islands","Europe","deaths.1000.live.births",5.7
+"faroe-islands","Europe","years",81.7
+"faroe-islands","Europe","deaths.100000.live.births",NA
+"fiji","Australia and Oceania","deaths.1000.live.births",9.7
+"fiji","Australia and Oceania","years",74.8
+"fiji","Australia and Oceania","deaths.100000.live.births",30
+"finland","Europe","deaths.1000.live.births",2.1
+"finland","Europe","years",82.2
+"finland","Europe","deaths.100000.live.births",8
+"france","Europe","deaths.1000.live.births",3.1
+"france","Europe","years",82.6
+"france","Europe","deaths.100000.live.births",7
+"french-polynesia","Australia and Oceania","deaths.1000.live.births",4.3
+"french-polynesia","Australia and Oceania","years",78.9
+"french-polynesia","Australia and Oceania","deaths.100000.live.births",NA
+"gabon","Africa","deaths.1000.live.births",26.9
+"gabon","Africa","years",70.4
+"gabon","Africa","deaths.100000.live.births",233
+"gambia-the","Africa","deaths.1000.live.births",35.7
+"gambia-the","Africa","years",68.4
+"gambia-the","Africa","deaths.100000.live.births",354
+"gaza-strip","Middle East","deaths.1000.live.births",15.1
+"gaza-strip","Middle East","years",75.5
+"gaza-strip","Middle East","deaths.100000.live.births",16
+"georgia","Central Asia","deaths.1000.live.births",21.7
+"georgia","Central Asia","years",72.8
+"georgia","Central Asia","deaths.100000.live.births",20
+"germany","Europe","deaths.1000.live.births",3.1
+"germany","Europe","years",81.9
+"germany","Europe","deaths.100000.live.births",4
+"ghana","Africa","deaths.1000.live.births",31.2
+"ghana","Africa","years",70.1
+"ghana","Africa","deaths.100000.live.births",234
+"gibraltar","Europe","deaths.1000.live.births",6
+"gibraltar","Europe","years",80.9
+"gibraltar","Europe","deaths.100000.live.births",NA
+"greece","Europe","deaths.1000.live.births",3.4
+"greece","Europe","years",81.9
+"greece","Europe","deaths.100000.live.births",5
+"greenland","North America","deaths.1000.live.births",8.5
+"greenland","North America","years",74.5
+"greenland","North America","deaths.100000.live.births",NA
+"grenada","Central America and the Caribbean","deaths.1000.live.births",9
+"grenada","Central America and the Caribbean","years",76.3
+"grenada","Central America and the Caribbean","deaths.100000.live.births",48
+"guam","Australia and Oceania","deaths.1000.live.births",10.9
+"guam","Australia and Oceania","years",78
+"guam","Australia and Oceania","deaths.100000.live.births",NA
+"guatemala","Central America and the Caribbean","deaths.1000.live.births",25
+"guatemala","Central America and the Caribbean","years",73.5
+"guatemala","Central America and the Caribbean","deaths.100000.live.births",94
+"guernsey","Europe","deaths.1000.live.births",3.3
+"guernsey","Europe","years",83.6
+"guernsey","Europe","deaths.100000.live.births",NA
+"guinea","Africa","deaths.1000.live.births",47
+"guinea","Africa","years",64.6
+"guinea","Africa","deaths.100000.live.births",494
+"guinea-bissau","Africa","deaths.1000.live.births",46.4
+"guinea-bissau","Africa","years",64.5
+"guinea-bissau","Africa","deaths.100000.live.births",505
+"guyana","South America","deaths.1000.live.births",21.1
+"guyana","South America","years",72.4
+"guyana","South America","deaths.100000.live.births",75
+"haiti","Central America and the Caribbean","deaths.1000.live.births",36.8
+"haiti","Central America and the Caribbean","years",65.6
+"haiti","Central America and the Caribbean","deaths.100000.live.births",328
+"honduras","Central America and the Caribbean","deaths.1000.live.births",15.4
+"honduras","Central America and the Caribbean","years",73.1
+"honduras","Central America and the Caribbean","deaths.100000.live.births",47
+"hong-kong","East and Southeast Asia","deaths.1000.live.births",2.5
+"hong-kong","East and Southeast Asia","years",84
+"hong-kong","East and Southeast Asia","deaths.100000.live.births",NA
+"hungary","Europe","deaths.1000.live.births",4.7
+"hungary","Europe","years",76
+"hungary","Europe","deaths.100000.live.births",12
+"iceland","Europe","deaths.1000.live.births",1.6
+"iceland","Europe","years",84
+"iceland","Europe","deaths.100000.live.births",3
+"india","South Asia","deaths.1000.live.births",30.4
+"india","South Asia","years",68.2
+"india","South Asia","deaths.100000.live.births",80
+"indonesia","East and Southeast Asia","deaths.1000.live.births",18.9
+"indonesia","East and Southeast Asia","years",73.6
+"indonesia","East and Southeast Asia","deaths.100000.live.births",140
+"iran","Middle East","deaths.1000.live.births",14.3
+"iran","Middle East","years",75.6
+"iran","Middle East","deaths.100000.live.births",16
+"iraq","Middle East","deaths.1000.live.births",18.7
+"iraq","Middle East","years",73.7
+"iraq","Middle East","deaths.100000.live.births",66
+"ireland","Europe","deaths.1000.live.births",3.3
+"ireland","Europe","years",82
+"ireland","Europe","deaths.100000.live.births",4
+"isle-of-man","Europe","deaths.1000.live.births",4.1
+"isle-of-man","Europe","years",82.5
+"isle-of-man","Europe","deaths.100000.live.births",NA
+"israel","Middle East","deaths.1000.live.births",2.8
+"israel","Middle East","years",83.1
+"israel","Middle East","deaths.100000.live.births",2
+"italy","Europe","deaths.1000.live.births",3.1
+"italy","Europe","years",83
+"italy","Europe","deaths.100000.live.births",6
+"jamaica","Central America and the Caribbean","deaths.1000.live.births",10.7
+"jamaica","Central America and the Caribbean","years",76.3
+"jamaica","Central America and the Caribbean","deaths.100000.live.births",130
+"japan","East and Southeast Asia","deaths.1000.live.births",1.9
+"japan","East and Southeast Asia","years",85.2
+"japan","East and Southeast Asia","deaths.100000.live.births",3
+"jersey","Europe","deaths.1000.live.births",3.7
+"jersey","Europe","years",83
+"jersey","Europe","deaths.100000.live.births",NA
+"jordan","Middle East","deaths.1000.live.births",13.2
+"jordan","Middle East","years",76.5
+"jordan","Middle East","deaths.100000.live.births",31
+"kazakhstan","Central Asia","deaths.1000.live.births",8
+"kazakhstan","Central Asia","years",73.3
+"kazakhstan","Central Asia","deaths.100000.live.births",10
+"kenya","Africa","deaths.1000.live.births",26.1
+"kenya","Africa","years",70.4
+"kenya","Africa","deaths.100000.live.births",379
+"kiribati","Australia and Oceania","deaths.1000.live.births",31.5
+"kiribati","Australia and Oceania","years",68.5
+"kiribati","Australia and Oceania","deaths.100000.live.births",80
+"korea-north","East and Southeast Asia","deaths.1000.live.births",15.4
+"korea-north","East and Southeast Asia","years",73.5
+"korea-north","East and Southeast Asia","deaths.100000.live.births",67
+"korea-south","East and Southeast Asia","deaths.1000.live.births",2.8
+"korea-south","East and Southeast Asia","years",83.4
+"korea-south","East and Southeast Asia","deaths.100000.live.births",4
+"kosovo","Europe","deaths.1000.live.births",22.9
+"kosovo","Europe","years",73.1
+"kosovo","Europe","deaths.100000.live.births",NA
+"kuwait","Middle East","deaths.1000.live.births",7.2
+"kuwait","Middle East","years",79.6
+"kuwait","Middle East","deaths.100000.live.births",8
+"kyrgyzstan","Central Asia","deaths.1000.live.births",24.5
+"kyrgyzstan","Central Asia","years",72.9
+"kyrgyzstan","Central Asia","deaths.100000.live.births",42
+"laos","East and Southeast Asia","deaths.1000.live.births",35.4
+"laos","East and Southeast Asia","years",69
+"laos","East and Southeast Asia","deaths.100000.live.births",112
+"latvia","Europe","deaths.1000.live.births",4.7
+"latvia","Europe","years",76.4
+"latvia","Europe","deaths.100000.live.births",19
+"lebanon","Middle East","deaths.1000.live.births",6.7
+"lebanon","Middle East","years",79.2
+"lebanon","Middle East","deaths.100000.live.births",15
+"lesotho","Africa","deaths.1000.live.births",45.7
+"lesotho","Africa","years",60.2
+"lesotho","Africa","deaths.100000.live.births",478
+"liberia","Africa","deaths.1000.live.births",55.7
+"liberia","Africa","years",61.6
+"liberia","Africa","deaths.100000.live.births",628
+"libya","Africa","deaths.1000.live.births",10.7
+"libya","Africa","years",77.7
+"libya","Africa","deaths.100000.live.births",59
+"liechtenstein","Europe","deaths.1000.live.births",3.9
+"liechtenstein","Europe","years",83
+"liechtenstein","Europe","deaths.100000.live.births",NA
+"lithuania","Europe","deaths.1000.live.births",3.6
+"lithuania","Europe","years",76.1
+"lithuania","Europe","deaths.100000.live.births",8
+"luxembourg","Europe","deaths.1000.live.births",3.2
+"luxembourg","Europe","years",83.4
+"luxembourg","Europe","deaths.100000.live.births",12
+"macau","East and Southeast Asia","deaths.1000.live.births",4.4
+"macau","East and Southeast Asia","years",85.3
+"macau","East and Southeast Asia","deaths.100000.live.births",NA
+"madagascar","Africa","deaths.1000.live.births",37.5
+"madagascar","Africa","years",68.8
+"madagascar","Africa","deaths.100000.live.births",445
+"malawi","Africa","deaths.1000.live.births",31.9
+"malawi","Africa","years",73
+"malawi","Africa","deaths.100000.live.births",225
+"malaysia","East and Southeast Asia","deaths.1000.live.births",6.4
+"malaysia","East and Southeast Asia","years",76.6
+"malaysia","East and Southeast Asia","deaths.100000.live.births",26
+"maldives","South Asia","deaths.1000.live.births",24.4
+"maldives","South Asia","years",77.4
+"maldives","South Asia","deaths.100000.live.births",32
+"mali","Africa","deaths.1000.live.births",57.4
+"mali","Africa","years",63.2
+"mali","Africa","deaths.100000.live.births",367
+"malta","Europe","deaths.1000.live.births",4.4
+"malta","Europe","years",83.6
+"malta","Europe","deaths.100000.live.births",8
+"marshall-islands","Australia and Oceania","deaths.1000.live.births",20.6
+"marshall-islands","Australia and Oceania","years",75.2
+"marshall-islands","Australia and Oceania","deaths.100000.live.births",155
+"mauritania","Africa","deaths.1000.live.births",48.9
+"mauritania","Africa","years",65.9
+"mauritania","Africa","deaths.100000.live.births",381
+"mauritius","Africa","deaths.1000.live.births",11.6
+"mauritius","Africa","years",75.4
+"mauritius","Africa","deaths.100000.live.births",66
+"mexico","North America","deaths.1000.live.births",12.1
+"mexico","North America","years",74.6
+"mexico","North America","deaths.100000.live.births",42
+"micronesia-federated-states-of","Australia and Oceania","deaths.1000.live.births",20.9
+"micronesia-federated-states-of","Australia and Oceania","years",75
+"micronesia-federated-states-of","Australia and Oceania","deaths.100000.live.births",129
+"moldova","Europe","deaths.1000.live.births",13.8
+"moldova","Europe","years",70.1
+"moldova","Europe","deaths.100000.live.births",19
+"monaco","Europe","deaths.1000.live.births",1.7
+"monaco","Europe","years",89.8
+"monaco","Europe","deaths.100000.live.births",5
+"mongolia","East and Southeast Asia","deaths.1000.live.births",19.4
+"mongolia","East and Southeast Asia","years",71.9
+"mongolia","East and Southeast Asia","deaths.100000.live.births",41
+"montenegro","Europe","deaths.1000.live.births",3.2
+"montenegro","Europe","years",78.2
+"montenegro","Europe","deaths.100000.live.births",6
+"montserrat","Central America and the Caribbean","deaths.1000.live.births",9.7
+"montserrat","Central America and the Caribbean","years",76.1
+"montserrat","Central America and the Caribbean","deaths.100000.live.births",NA
+"morocco","Africa","deaths.1000.live.births",18.3
+"morocco","Africa","years",74.2
+"morocco","Africa","deaths.100000.live.births",70
+"mozambique","Africa","deaths.1000.live.births",58.2
+"mozambique","Africa","years",58.3
+"mozambique","Africa","deaths.100000.live.births",82
+"namibia","Africa","deaths.1000.live.births",27.9
+"namibia","Africa","years",65.9
+"namibia","Africa","deaths.100000.live.births",139
+"nauru","Australia and Oceania","deaths.1000.live.births",7.6
+"nauru","Australia and Oceania","years",68.6
+"nauru","Australia and Oceania","deaths.100000.live.births",273
+"nepal","South Asia","deaths.1000.live.births",24
+"nepal","South Asia","years",73
+"nepal","South Asia","deaths.100000.live.births",142
+"netherlands","Europe","deaths.1000.live.births",3.6
+"netherlands","Europe","years",81.9
+"netherlands","Europe","deaths.100000.live.births",4
+"new-caledonia","Australia and Oceania","deaths.1000.live.births",4.8
+"new-caledonia","Australia and Oceania","years",79.3
+"new-caledonia","Australia and Oceania","deaths.100000.live.births",NA
+"new-zealand","Australia and Oceania","deaths.1000.live.births",3.3
+"new-zealand","Australia and Oceania","years",82.9
+"new-zealand","Australia and Oceania","deaths.100000.live.births",7
+"nicaragua","Central America and the Caribbean","deaths.1000.live.births",14.4
+"nicaragua","Central America and the Caribbean","years",74.7
+"nicaragua","Central America and the Caribbean","deaths.100000.live.births",60
+"niger","Africa","deaths.1000.live.births",64.3
+"niger","Africa","years",60.9
+"niger","Africa","deaths.100000.live.births",350
+"nigeria","Africa","deaths.1000.live.births",53.7
+"nigeria","Africa","years",62.2
+"nigeria","Africa","deaths.100000.live.births",993
+"north-macedonia","Europe","deaths.1000.live.births",7
+"north-macedonia","Europe","years",77.3
+"north-macedonia","Europe","deaths.100000.live.births",3
+"northern-mariana-islands","Australia and Oceania","deaths.1000.live.births",11.9
+"northern-mariana-islands","Australia and Oceania","years",77.1
+"northern-mariana-islands","Australia and Oceania","deaths.100000.live.births",NA
+"norway","Europe","deaths.1000.live.births",1.8
+"norway","Europe","years",82.9
+"norway","Europe","deaths.100000.live.births",1
+"oman","Middle East","deaths.1000.live.births",13.9
+"oman","Middle East","years",77.4
+"oman","Middle East","deaths.100000.live.births",13
+"pakistan","South Asia","deaths.1000.live.births",51.5
+"pakistan","South Asia","years",70.3
+"pakistan","South Asia","deaths.100000.live.births",155
+"palau","Australia and Oceania","deaths.1000.live.births",10.8
+"palau","Australia and Oceania","years",75.2
+"palau","Australia and Oceania","deaths.100000.live.births",89
+"panama","Central America and the Caribbean","deaths.1000.live.births",14.2
+"panama","Central America and the Caribbean","years",79.2
+"panama","Central America and the Caribbean","deaths.100000.live.births",37
+"papua-new-guinea","East and Southeast Asia","deaths.1000.live.births",32
+"papua-new-guinea","East and Southeast Asia","years",70.1
+"papua-new-guinea","East and Southeast Asia","deaths.100000.live.births",189
+"paraguay","South America","deaths.1000.live.births",22
+"paraguay","South America","years",78.8
+"paraguay","South America","deaths.100000.live.births",58
+"peru","South America","deaths.1000.live.births",10.8
+"peru","South America","years",68.9
+"peru","South America","deaths.100000.live.births",51
+"philippines","East and Southeast Asia","deaths.1000.live.births",22
+"philippines","East and Southeast Asia","years",70.8
+"philippines","East and Southeast Asia","deaths.100000.live.births",84
+"poland","Europe","deaths.1000.live.births",4.9
+"poland","Europe","years",76.7
+"poland","Europe","deaths.100000.live.births",2
+"portugal","Europe","deaths.1000.live.births",2.4
+"portugal","Europe","years",81.9
+"portugal","Europe","deaths.100000.live.births",15
+"puerto-rico","Central America and the Caribbean","deaths.1000.live.births",5.8
+"puerto-rico","Central America and the Caribbean","years",82.1
+"puerto-rico","Central America and the Caribbean","deaths.100000.live.births",11
+"qatar","Middle East","deaths.1000.live.births",6.4
+"qatar","Middle East","years",80.3
+"qatar","Middle East","deaths.100000.live.births",4
+"romania","Europe","deaths.1000.live.births",5.5
+"romania","Europe","years",76.9
+"romania","Europe","deaths.100000.live.births",12
+"russia","Central Asia","deaths.1000.live.births",6.5
+"russia","Central Asia","years",72.3
+"russia","Central Asia","deaths.100000.live.births",9
+"rwanda","Africa","deaths.1000.live.births",24.9
+"rwanda","Africa","years",66.6
+"rwanda","Africa","deaths.100000.live.births",229
+"saint-barthelemy","Central America and the Caribbean","deaths.1000.live.births",6.5
+"saint-barthelemy","Central America and the Caribbean","years",81
+"saint-barthelemy","Central America and the Caribbean","deaths.100000.live.births",NA
+"saint-helena-ascension-and-tristan-da-cunha","Africa","deaths.1000.live.births",18.1
+"saint-helena-ascension-and-tristan-da-cunha","Africa","years",80.9
+"saint-helena-ascension-and-tristan-da-cunha","Africa","deaths.100000.live.births",NA
+"saint-kitts-and-nevis","Central America and the Caribbean","deaths.1000.live.births",8
+"saint-kitts-and-nevis","Central America and the Caribbean","years",77.6
+"saint-kitts-and-nevis","Central America and the Caribbean","deaths.100000.live.births",74
+"saint-lucia","Central America and the Caribbean","deaths.1000.live.births",11.5
+"saint-lucia","Central America and the Caribbean","years",79.4
+"saint-lucia","Central America and the Caribbean","deaths.100000.live.births",44
+"saint-martin","Central America and the Caribbean","deaths.1000.live.births",6.5
+"saint-martin","Central America and the Caribbean","years",81
+"saint-martin","Central America and the Caribbean","deaths.100000.live.births",NA
+"saint-pierre-and-miquelon","North America","deaths.1000.live.births",7.8
+"saint-pierre-and-miquelon","North America","years",81.8
+"saint-pierre-and-miquelon","North America","deaths.100000.live.births",NA
+"saint-vincent-and-the-grenadines","Central America and the Caribbean","deaths.1000.live.births",12.3
+"saint-vincent-and-the-grenadines","Central America and the Caribbean","years",77.2
+"saint-vincent-and-the-grenadines","Central America and the Caribbean","deaths.100000.live.births",56
+"samoa","Australia and Oceania","deaths.1000.live.births",17.3
+"samoa","Australia and Oceania","years",75.7
+"samoa","Australia and Oceania","deaths.100000.live.births",101
+"san-marino","Europe","deaths.1000.live.births",6.2
+"san-marino","Europe","years",84.2
+"san-marino","Europe","deaths.100000.live.births",8
+"sao-tome-and-principe","Africa","deaths.1000.live.births",42.6
+"sao-tome-and-principe","Africa","years",67.7
+"sao-tome-and-principe","Africa","deaths.100000.live.births",75
+"saudi-arabia","Middle East","deaths.1000.live.births",11.7
+"saudi-arabia","Middle East","years",77.2
+"saudi-arabia","Middle East","deaths.100000.live.births",7
+"senegal","Africa","deaths.1000.live.births",31.1
+"senegal","Africa","years",70.6
+"senegal","Africa","deaths.100000.live.births",237
+"serbia","Europe","deaths.1000.live.births",4.5
+"serbia","Europe","years",75.3
+"serbia","Europe","deaths.100000.live.births",11
+"seychelles","Africa","deaths.1000.live.births",10.2
+"seychelles","Africa","years",76.6
+"seychelles","Africa","deaths.100000.live.births",42
+"sierra-leone","Africa","deaths.1000.live.births",71.2
+"sierra-leone","Africa","years",59.4
+"sierra-leone","Africa","deaths.100000.live.births",354
+"singapore","East and Southeast Asia","deaths.1000.live.births",1.5
+"singapore","East and Southeast Asia","years",86.7
+"singapore","East and Southeast Asia","deaths.100000.live.births",6
+"sint-maarten","Central America and the Caribbean","deaths.1000.live.births",7.6
+"sint-maarten","Central America and the Caribbean","years",79.7
+"sint-maarten","Central America and the Caribbean","deaths.100000.live.births",NA
+"slovakia","Europe","deaths.1000.live.births",5.1
+"slovakia","Europe","years",77.2
+"slovakia","Europe","deaths.100000.live.births",4
+"slovenia","Europe","deaths.1000.live.births",1.5
+"slovenia","Europe","years",82.2
+"slovenia","Europe","deaths.100000.live.births",3
+"solomon-islands","Australia and Oceania","deaths.1000.live.births",19.1
+"solomon-islands","Australia and Oceania","years",77.2
+"solomon-islands","Australia and Oceania","deaths.100000.live.births",123
+"somalia","Africa","deaths.1000.live.births",83.6
+"somalia","Africa","years",56.5
+"somalia","Africa","deaths.100000.live.births",563
+"south-africa","Africa","deaths.1000.live.births",21.9
+"south-africa","Africa","years",71.9
+"south-africa","Africa","deaths.100000.live.births",118
+"south-sudan","Africa","deaths.1000.live.births",60.1
+"south-sudan","Africa","years",60.3
+"south-sudan","Africa","deaths.100000.live.births",692
+"spain","Europe","deaths.1000.live.births",2.4
+"spain","Europe","years",83
+"spain","Europe","deaths.100000.live.births",3
+"sri-lanka","South Asia","deaths.1000.live.births",6.8
+"sri-lanka","South Asia","years",76.8
+"sri-lanka","South Asia","deaths.100000.live.births",18
+"sudan","Africa","deaths.1000.live.births",40.6
+"sudan","Africa","years",67.8
+"sudan","Africa","deaths.100000.live.births",256
+"suriname","South America","deaths.1000.live.births",29.6
+"suriname","South America","years",72.7
+"suriname","South America","deaths.100000.live.births",84
+"sweden","Europe","deaths.1000.live.births",2.3
+"sweden","Europe","years",82.9
+"sweden","Europe","deaths.100000.live.births",4
+"switzerland","Europe","deaths.1000.live.births",3
+"switzerland","Europe","years",83.9
+"switzerland","Europe","deaths.100000.live.births",5
+"syria","Middle East","deaths.1000.live.births",15.1
+"syria","Middle East","years",74.8
+"syria","Middle East","deaths.100000.live.births",20
+"taiwan","East and Southeast Asia","deaths.1000.live.births",3.8
+"taiwan","East and Southeast Asia","years",81.6
+"taiwan","East and Southeast Asia","deaths.100000.live.births",NA
+"tajikistan","Central Asia","deaths.1000.live.births",21.7
+"tajikistan","Central Asia","years",71.9
+"tajikistan","Central Asia","deaths.100000.live.births",14
+"tanzania","Africa","deaths.1000.live.births",29.6
+"tanzania","Africa","years",70.8
+"tanzania","Africa","deaths.100000.live.births",276
+"thailand","East and Southeast Asia","deaths.1000.live.births",6.3
+"thailand","East and Southeast Asia","years",78.2
+"thailand","East and Southeast Asia","deaths.100000.live.births",34
+"timor-leste","East and Southeast Asia","deaths.1000.live.births",32.2
+"timor-leste","East and Southeast Asia","years",70.5
+"timor-leste","East and Southeast Asia","deaths.100000.live.births",192
+"togo","Africa","deaths.1000.live.births",38.4
+"togo","Africa","years",72.1
+"togo","Africa","deaths.100000.live.births",349
+"tonga","Australia and Oceania","deaths.1000.live.births",11.8
+"tonga","Australia and Oceania","years",78
+"tonga","Australia and Oceania","deaths.100000.live.births",67
+"trinidad-and-tobago","Central America and the Caribbean","deaths.1000.live.births",15.1
+"trinidad-and-tobago","Central America and the Caribbean","years",76.5
+"trinidad-and-tobago","Central America and the Caribbean","deaths.100000.live.births",54
+"tunisia","Africa","deaths.1000.live.births",11.3
+"tunisia","Africa","years",77.3
+"tunisia","Africa","deaths.100000.live.births",36
+"turkey-turkiye","Middle East","deaths.1000.live.births",18.4
+"turkey-turkiye","Middle East","years",76.7
+"turkey-turkiye","Middle East","deaths.100000.live.births",15
+"turkmenistan","Central Asia","deaths.1000.live.births",35.9
+"turkmenistan","Central Asia","years",72.4
+"turkmenistan","Central Asia","deaths.100000.live.births",5
+"turks-and-caicos-islands","Central America and the Caribbean","deaths.1000.live.births",11.1
+"turks-and-caicos-islands","Central America and the Caribbean","years",81.3
+"turks-and-caicos-islands","Central America and the Caribbean","deaths.100000.live.births",NA
+"tuvalu","Australia and Oceania","deaths.1000.live.births",27.8
+"tuvalu","Australia and Oceania","years",69
+"tuvalu","Australia and Oceania","deaths.100000.live.births",170
+"uganda","Africa","deaths.1000.live.births",28.5
+"uganda","Africa","years",69.7
+"uganda","Africa","deaths.100000.live.births",170
+"ukraine","Europe","deaths.1000.live.births",8.7
+"ukraine","Europe","years",70.5
+"ukraine","Europe","deaths.100000.live.births",15
+"united-arab-emirates","Middle East","deaths.1000.live.births",5
+"united-arab-emirates","Middle East","years",79.9
+"united-arab-emirates","Middle East","deaths.100000.live.births",3
+"united-kingdom","Europe","deaths.1000.live.births",3.8
+"united-kingdom","Europe","years",82.2
+"united-kingdom","Europe","deaths.100000.live.births",8
+"united-states","North America","deaths.1000.live.births",5.1
+"united-states","North America","years",80.9
+"united-states","North America","deaths.100000.live.births",17
+"uruguay","South America","deaths.1000.live.births",8
+"uruguay","South America","years",78.9
+"uruguay","South America","deaths.100000.live.births",15
+"uzbekistan","Central Asia","deaths.1000.live.births",18.2
+"uzbekistan","Central Asia","years",76.2
+"uzbekistan","Central Asia","deaths.100000.live.births",26
+"vanuatu","Australia and Oceania","deaths.1000.live.births",13.7
+"vanuatu","Australia and Oceania","years",75.7
+"vanuatu","Australia and Oceania","deaths.100000.live.births",100
+"venezuela","South America","deaths.1000.live.births",13.9
+"venezuela","South America","years",74.5
+"venezuela","South America","deaths.100000.live.births",227
+"vietnam","East and Southeast Asia","deaths.1000.live.births",14.1
+"vietnam","East and Southeast Asia","years",76.1
+"vietnam","East and Southeast Asia","deaths.100000.live.births",48
+"virgin-islands","Central America and the Caribbean","deaths.1000.live.births",7.3
+"virgin-islands","Central America and the Caribbean","years",80.7
+"virgin-islands","Central America and the Caribbean","deaths.100000.live.births",NA
+"wallis-and-futuna","Australia and Oceania","deaths.1000.live.births",3.9
+"wallis-and-futuna","Australia and Oceania","years",81.1
+"wallis-and-futuna","Australia and Oceania","deaths.100000.live.births",NA
+"west-bank","Middle East","deaths.1000.live.births",15.1
+"west-bank","Middle East","years",76.5
+"west-bank","Middle East","deaths.100000.live.births",16
+"yemen","Middle East","deaths.1000.live.births",44.6
+"yemen","Middle East","years",68.2
+"yemen","Middle East","deaths.100000.live.births",118
+"zambia","Africa","deaths.1000.live.births",35.6
+"zambia","Africa","years",66.9
+"zambia","Africa","deaths.100000.live.births",85
+"zimbabwe","Africa","deaths.1000.live.births",33.4
+"zimbabwe","Africa","years",67.2
+"zimbabwe","Africa","deaths.100000.live.births",358

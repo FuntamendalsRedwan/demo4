@@ -1,7 +1,19 @@
 ---
 title: "Week 4 HW DACSS 601"
-output: html_notebook
+output:
+  html_document:
+    df_print: paged
 ---
+
+```{r}
+#rest everything
+rm(list = ls())
+```
+
+```{r}
+# calling the libraries for later
+library(tidyr)
+```
 
 
 ```{r}
@@ -11,7 +23,68 @@ linkIMR="https://github.com/FuntamendalsRedwan/demo3/raw/refs/heads/main/cleanIM
 linkLEAB="https://github.com/FuntamendalsRedwan/demo3/raw/refs/heads/main/cleanLEAB.RDS"
 # link to the cleaned MMR data
 linkMMR="https://github.com/FuntamendalsRedwan/demo3/raw/refs/heads/main/cleanMMR.RDS"
+
+#get the IMR data
+imr_data <- readRDS(url(linkIMR))
+#get the LEAB data
+leab_data <- readRDS(url(linkLEAB))
+#get the MMR data
+mmr_data <- readRDS(url(linkMMR))
 ```
+
+Exercise 1
+```{r}
+#combine the IMR and LEAB data via countryname and region
+e1_merge_p1 <- merge(imr_data, leab_data, by = c("countryname", "region"), all = TRUE)
+#combine the previous combined with the MMR data via countryname and region
+e1_merge <- merge(e1_merge_p1, mmr_data, by = c("countryname", "region"), all = TRUE)
+#print the data to compare with later
+str(e1_merge)
+```
+```{r}
+#save the data
+write.csv(e1_merge, "e1_merged_data.csv", row.names = FALSE)
+#print the data to check its been saved correctly
+str(read.csv("e1_merged_data.csv"))
+```
+Exercise 2
+```{r}
+# aggregate the data by region and take the mean of each columns data
+e2_aggregate <- aggregate(cbind(deaths.1000.live.births, years, deaths.100000.live.births) ~ region, 
+                          data = e1_merge, 
+                          FUN = mean, 
+                          na.rm = TRUE)
+#print the data to compare with later
+str(e2_aggregate)
+```
+
+
+```{r}
+#save the data
+write.csv(e2_aggregate, "e2_aggregate_data.csv", row.names = FALSE)
+#print the data to check its been saved correctly
+str(read.csv("e2_aggregate_data.csv"))
+```
+
+Exercise 3
+```{r}
+e3_reshape <- pivot_longer(e1_merge, 
+                          cols = c("deaths.1000.live.births", "years", "deaths.100000.live.births"), 
+                          names_to = "indicator", 
+                          values_to = "value")
+str(e3_reshape)
+```
+
+
+```{r}
+#save the data
+write.csv(e3_reshape, "e3_reshape_data.csv", row.names = FALSE)
+#print the data to check its been saved correctly
+str(read.csv("e3_reshape_data.csv"))
+```
+
+
+
 
 
 
